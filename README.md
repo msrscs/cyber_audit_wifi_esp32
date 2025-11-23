@@ -212,7 +212,7 @@ Este projeto implementa um sistema completo de auditoria de segurança WiFi usan
 *Visualização das credenciais capturadas através do Portal Captivo*
 
 ![Persistência de Credenciais](docs/persistenciadecredenciais.png)
-![Persistência de Credenciais 1](docs/persistenciacecredenciaisN.png)
+![Persistência de Credenciais 1](docs/persistenciadecredenciaisN.png)
 *Sistema de persistência que mantém as credenciais mesmo após reinicialização*
 
 ![Credenciais Armazenadas](docs/credenciaisarmazenadas.png)
