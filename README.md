@@ -182,6 +182,7 @@ Este projeto implementa um sistema completo de auditoria de segurança WiFi usan
 ### 1. Início do Sistema
 ![Início do Sistema](docs/iniciodosistema.png)
 *Inicialização do sistema conectando ao WiFi pré-configurado ou aguarda configurar uma nova rede no WiFi*
+
 ![Menu](docs/menu.png)
 *Mostra o menu de comandos disponíveis*
 
